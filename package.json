@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Kamu Harus Apa?",
   "author": "Muhar Dwi Purwanto",
-  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -11,7 +10,13 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "compass-mixins": "^0.12.10",
+    "mustart-gradients": "^0.0.7",
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.0.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^8.0.0"
   },
   "devDependencies": {}
 }
