@@ -90,5 +90,5 @@ sw.*
 *.swp
 
 .ftpconfig
-build/
-dist/
+build
+public
