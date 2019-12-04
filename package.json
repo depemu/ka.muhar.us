@@ -1,7 +1,7 @@
 {
   "name": "ka.muhar.us",
   "version": "1.0.0",
-  "description": "Kamu Harus Apa?",
+  "description": "Kamu Harus",
   "author": "Muhar Dwi Purwanto",
   "scripts": {
     "dev": "nuxt",
