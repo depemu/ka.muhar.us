@@ -16,7 +16,7 @@
     "kind-of": "^6.0.3",
     "minimist": "^1.2.3",
     "mustart-gradients": "^0.0.7",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "nuxt": "^2.0.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
