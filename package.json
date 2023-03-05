@@ -14,7 +14,7 @@
     "compass-mixins": "^0.12.10",
     "dot-prop": "^4.2.1",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.6",
+    "minimist": "^1.2.7",
     "mustart-gradients": "^0.0.7",
     "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
