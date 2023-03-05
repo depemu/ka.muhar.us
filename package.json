@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Kamu Harus",
   "author": "Muhar Dwi Purwanto",
+  "license": "MIT",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
